@@ -4,7 +4,7 @@ Toto je pracovní repository projektu [EGdílny](https://www.egdilna.cz) pro př
 
 EGdílna v rámci tohoto projektu jako pilotní ověření také pomáhá [Městu Roztoky](https://www.roztoky.cz)  s tvorbou jejich IK po novu.
 
-Veškeré podklady, sledování práce, výstupy, dokumenty a zkrátka vše kolem toho je na GitHubu v repository [egdilna/ik-obce-svepomoci](https://github.com/egdilna/ik-svepomoci) 
+Veškeré podklady, sledování práce, výstupy, dokumenty a zkrátka vše kolem toho je na GitHubu v repository [egdilna/ik-obce-svepomoci](https://github.com/egdilna/ik-obce-svepomoci) 
 
 ## Části projektu a výstupů
 
