@@ -2,7 +2,7 @@
 
 Toto je pracovní repository projektu [EGdílny](https://www.egdilna.cz) pro přípravu jednoduché zhuštěné informační koncepce pro obecní úřady malých dvojkových obcí svépomocí, aby nemusely pro tvorbu a udržování IK řešit drahé veřejné zakázky a zároveň splnily své povinnosti a zůstaly jim znalosti.
 
-EGdílna v rámci tohoto projektu také pomáhá [Roztokám u Prahy]Městu Roztoky](https://www.roztoky.cz)  s tvorbou jejich IK po novu.
+EGdílna v rámci tohoto projektu jako pilotní ověření také pomáhá [Městu Roztoky](https://www.roztoky.cz)  s tvorbou jejich IK po novu.
 
 Veškeré podklady, sledování práce, výstupy, dokumenty a zkrátka vše kolem toho je na GitHubu v repository [egdilna/ik-obce-svepomoci](https://github.com/egdilna/ik-svepomoci) 
 
