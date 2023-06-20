@@ -2,18 +2,17 @@
 
 ## 1 Identifikace Informační koncepce
 
-OVS (dále OVS) vydává tuto Informační koncepci v souladu se zákonem č.
-365/2000 Sb., o informačních systémech veřejné správy (§ 5a). V
-informační koncepci OVS stanovuje své dlouhodobé cíle v oblasti řízení
-kvality a bezpečnosti spravovaných informačních systémů veřejné správy a
-vymezuje obecné principy pořizování, vytváření a provozování
-informačních systémů veřejné správy. Základní údaje Informační koncepce
+{{{OVS}}} vydává tuto Informační koncepci podle Zákona 365/2020 a Vyhlášky 529/2016
 
-\|Název organizace\|\| \|IČO\|\| \|Typ organizace\|\| \|Adresa\|\|
-\|Datum schválení\|\| \|Doba platnosti \|5 let\| \|Konec platnosti\|\|
-
-\|Role \|Osoba \|Datum \|Podpis\| \|Autor\|\|\| \|Schválil\|\|\|
-
+* Název obce: 
+* Typ organizace: Obec s pověřeným úřadem
+* Obec je v katastru ORP: Čerčany
+* Datum schválení IK:
+* Platnost IK: od 
+* Zodpovědný radní:
+* Atestace IK:
+* 
+* 
 ## 2 Manažerské shrnutí Informační koncepce OVS 
 
 Shrnutí IK pro klíčové zainteresované:
