@@ -1,3 +1,8 @@
+Šablona pro informační koncepci v minimalistickém pojetí pro malé samosprávy a malé OVS.
+
+Primárně nevychází z velké vzorové osnovy IK OVS, ale z osnovy uvedené v nové vyhlášce o dlouhodobém řízení. To neznamená, že by ale neměla obsahovat vše potřebné, jen je uspořádána jinak a očekává se i její menší rozsah.
+
+
 # 1. Úvod
 ## 1.1. Identifikace Informační koncepce
 
