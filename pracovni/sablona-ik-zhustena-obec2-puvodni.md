@@ -29,6 +29,8 @@ Tato informační koncepce se vydává na dobu xxx s platností od xxx. IK se vy
 Jako hlavní závěry shrnutí stávajícího stavu lze uvést:
 
 * xxx
+
+
 OVS se v následujícím období bude věnovat zejména těmto oblastem:
 
 * xxx
