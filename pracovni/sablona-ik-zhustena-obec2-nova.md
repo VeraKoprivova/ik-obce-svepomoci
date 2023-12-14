@@ -2,6 +2,13 @@
 
 Primárně nevychází z velké vzorové osnovy IK OVS, ale z osnovy uvedené v nové vyhlášce o dlouhodobém řízení. To neznamená, že by ale neměla obsahovat vše potřebné, jen je uspořádána jinak a očekává se i její menší rozsah.
 
+Verze šablony: 0.3
+
+Verze pro obec II typu
+
+Šablona k dispozici na adrese https://github.com/egdilna/sablony/blob/main/sablona-ik-zhustena-obec2-nova.md
+
+----------
 
 # 1. Úvod
 ## 1.1. Identifikace Informační koncepce
@@ -42,15 +49,19 @@ OVS se v následujícím období bude věnovat zejména těmto oblastem:
 ## 2.3. Navržený cílový stav architektury orgánu veřejné správy
 ## 2.4. Plán realizace změn informačních systémů orgánu veřejné správy
 # 3. Přehled řízení informatiky
-##Popis stávajícího stavu řízení informatiky
-## 3.1. Popis důvodu pro změny řízení informatiky
-## 3.2. Navržený cílový stav řízení informatiky
-## 3.3. Plán realizace změn pro dosažení cílového stavu řízení informatiky
+## 3. 1 Popis stávajícího stavu řízení informatiky
+## 3.12 Popis důvodu pro změny řízení informatiky
+## 3.3. Navržený cílový stav řízení informatiky
+## 3.4. Plán realizace změn pro dosažení cílového stavu řízení informatiky
 # 4. Dokumentace o správě informační koncepce orgánu veřejné správy.
 ## 4.1. Platnost informační koncepce orgánu veřejné správy
 ## 4.2. Postupy při vyhodnocování dodržování informační koncepce orgánu veřejné správy
 ## 4.3. Postupy při provádění změn informační koncepce orgánu veřejné správy
 ## 4.4. Změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna
 # 5. Datové přílohy informační koncepce
-## 5.1. Přehled informačních systémů orgánu veřejné moci
-## 5.2. Přehled záměrů IK
+## 5.1 Přehled agend a oblastí a zodpovědných útvarů (věcných gestorů)
+
+## 5.2. Přehled informačních systémů orgánu veřejné moci
+## 5.3. Přehled záměrů IK
+## 5.4 Přehled nutných součinností
+
