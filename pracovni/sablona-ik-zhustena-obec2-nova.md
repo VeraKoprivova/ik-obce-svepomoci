@@ -211,5 +211,5 @@ vytváří a průběžně aktualizuje strategii ukončování provozu informač
 
 ## 5.2. Přehled informačních systémů orgánu veřejné moci
 ## 5.3. Přehled záměrů IK
-## 5.4 Přehled nutných součinností
+## 5.4. Přehled nutných součinností
 
