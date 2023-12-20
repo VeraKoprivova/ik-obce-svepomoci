@@ -50,7 +50,155 @@ OVS se v následujícím období bude věnovat zejména těmto oblastem:
 ## 2.4. Plán realizace změn informačních systémů orgánu veřejné správy
 # 3. Přehled řízení informatiky
 ## 3. 1 Popis stávajícího stavu řízení informatiky
-## 3.12 Popis důvodu pro změny řízení informatiky
+
+
+
+### Soulad s procesy požadovanými dlouhodobým řízením IS
+**V oblasti strategie, plánování a organizace řízení informatiky**
+
+zavádí strategické řízení informatiky
+
+* Současný stav: x
+* Potřebné změny: x
+
+zřizuje útvar pověřený řízením informatiky a blíže vymezuje jeho úkoly
+
+* Současný stav: x
+* Potřebné změny: x
+
+nastavuje procesy řízení informatiky a zajišťuje k tomu potřebné nástroje. 
+
+* Současný stav: x
+* Potřebné změny: x
+
+**V oblasti pořízení a změn informačních systémů **
+
+zajišťuje řízení zdrojů potřebných pro pořízení nebo změny informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+identifikuje požadavky na informační systémy a podmínky jejich zajištění
+
+* Současný stav: x
+* Potřebné změny: x
+
+vyhodnocuje a v případě potřeby zajišťuje podmínky pro vytvoření ověřovacích konceptů sloužících pro ověření realizovatelnosti pořízení nebo změn informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje řízení programů a projektů potřebných pro pořízení a změny informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje řízení změn informačního systému na organizační a procesní úrovni
+
+* Současný stav: x
+* Potřebné změny: x
+
+vyhodnocuje využitelnost existujících řešení a komponent s otevřeným zdrojovým kódem eGovernmentu pro jím spravované informační systémy
+
+* Současný stav: x
+* Potřebné změny: x
+
+určuje pro každý informační systém věcného a technického správce
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje ohlášení a aktualizaci údajů o svých informačnícjh systémech do Rejstříku ISVS
+
+* Současný stav: x
+* Potřebné změny: x
+
+
+vydává a udržuje provozní dokumentaci informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+udržuje dokumentaci a řízení změn informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+
+
+**V oblasti provozu informačních systémů**
+
+nastavuje systém řízení provozu informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+užívá doménového jména třetí nebo nižší úrovně v doméně .gov.cz, je-li orgán veřejné správy státním orgánem
+
+* Současný stav: x
+* Potřebné změny: x
+
+sleduje klíčové parametry provozu informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje správu zdrojů potřebných pro uspokojení servisních požadavků, řešení provozních incidentů a provoz informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje řízení kontinuity provozu informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje řízení bezpečnosti provozu informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+vyhodnocuje možnost využití centrálních sdílených služeb poskytovaných jinými orgány veřejné správy.
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje vazby svých informačních systémů veřejné správy na systémy jiného správce referenčním rozhraním
+
+* Současný stav: x
+* Potřebné změny: x
+
+zajišťuje služby svých informačních systémů
+
+
+**V oblasti dohledu nad poskytováním služeb informačních systémů **
+
+stanovuje závazné parametry poskytovaných služeb informačních systémů, vyhodnocuje jejich plnění a realizuje nápravná opatření
+
+* Současný stav: x
+* Potřebné změny: x
+
+zveřejňuje informace získané z činnosti podle předchozího bodu  způsobem umožňujícím dálkový přístup
+
+* Současný stav: x
+* Potřebné změny: x
+
+
+
+**V oblasti útlumu, konzervace a ukončení informačních systémů **
+
+vytváří a průběžně aktualizuje strategii ukončování provozu informačních systémů
+
+* Současný stav: x
+* Potřebné změny: x
+
+### Soulad s principy a zásadami IKČR
+
+### Vyhodnocení stavu dle klíčových oblastí architektury
+
+
+
+## 3.2 Popis důvodu pro změny řízení informatiky
 ## 3.3. Navržený cílový stav řízení informatiky
 ## 3.4. Plán realizace změn pro dosažení cílového stavu řízení informatiky
 # 4. Dokumentace o správě informační koncepce orgánu veřejné správy.
