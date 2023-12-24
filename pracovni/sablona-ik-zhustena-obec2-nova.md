@@ -170,8 +170,11 @@ zajišťuje vazby svých informačních systémů veřejné správy na systémy 
 
 zajišťuje služby svých informačních systémů
 
+* Současný stav: x
+* Potřebné změny: x
 
-**V oblasti dohledu nad poskytováním služeb informačních systémů **
+
+**V oblasti dohledu nad poskytováním služeb informačních systémů**
 
 stanovuje závazné parametry poskytovaných služeb informačních systémů, vyhodnocuje jejich plnění a realizuje nápravná opatření
 
@@ -185,7 +188,7 @@ zveřejňuje informace získané z činnosti podle předchozího bodu  způsobem
 
 
 
-**V oblasti útlumu, konzervace a ukončení informačních systémů **
+**V oblasti útlumu, konzervace a ukončení informačních systémů**
 
 vytváří a průběžně aktualizuje strategii ukončování provozu informačních systémů
 
