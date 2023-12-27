@@ -2,7 +2,7 @@
 
 Primárně nevychází z velké [vzorové osnovy IK OVS](https://archi.gov.cz/znalostni_baze:ik_ovs), ale z osnovy uvedené v nové [vyhlášce 360/2023 o dlouhodobém řízení](https://www.zakonyprolidi.cz/cs/2023-360). To neznamená, že by ale neměla obsahovat vše potřebné, jen je uspořádána jinak a očekává se i její menší rozsah.
 
-Verze šablony: 0.4
+Verze šablony: 0.5
 
 Verze pro obec II typu
 
@@ -196,7 +196,85 @@ vytváří a průběžně aktualizuje strategii ukončování provozu informač
 
 ### 3.1.2. Soulad s principy a zásadami IKČR
 
+
+Následuje tabulka s popisným vyhodnocením souladu se závaznými architektonickými principy stanovenými v Informační koncepci České republiky. U těch principů, jež nejsou pro naši organizaci relevantní, je toto uvedeno. Podrobný popis všech principů obsahuje [stránka národní architektonické principy](https://architektovani.tiddlyhost.com/#n%C3%A1rodn%C3%AD%20architektonick%C3%A9%20principy)
+
+
+
+| Objekt IKČR                                                                                      | Popis zhodnocení |
+|--------------------------------------------------------------------------------------------------|------------------|
+| Architektonický princip P1: Standardně digitalizované (Digital by default)                       |                  |
+| Architektonický princip P2: Pouze jednou (Once only)                                             |                  |
+| Architektonický princip P3: Podpora začlenění a přístupnost (Inclusiveness and Accessibility)    |                  |
+| Architektonický princip P4: Otevřenost a transparentnost (Openness and Transparency)             |                  |
+| Architektonický princip P5: Přeshraniční přístup jako standard (Cross border interoperability)   |                  |
+| Architektonický princip P6: Interoperabilita jako standard (Interoperability by design)          |                  |
+| Architektonický princip P7: Důvěryhodnost a bezpečnost (Security & Privacy by design)            |                  |
+| Architektonický princip P8: Jeden stát (Whole-of-Government)                                     |                  |
+| Architektonický princip P9: Sdílené služby veřejné správy (Shared Services)                      |                  |
+| Architektonický princip P10: Připravenost na změny (Flexibility)                                 |                  |
+| Architektonický princip P11: eGovernment jako platforma (Embedded eGovernment)                   |                  |
+| Architektonický princip P12: Vnitřně pouze digitální (Inside only digital)                       |                  |
+| Architektonický princip P13: Otevřená data jako standard (Open Data by default)                  |                  |
+| Architektonický princip P14: Technologická neutralita (Technological neutrality)                 |                  |
+| Architektonický princip P15: Uživatelská přívětivost (User-friendliness)                         |                  |
+| Architektonický princip P16: Konsolidace a propojování (IT Consolidation)                        |                  |
+| Architektonický princip P17: Omezení budování monolitických systémů (Application decomposition)  |                  |
+| Architektonický princip P18: Datová suverenita a nezávislost (Data sovereignty and independence) |                  |
+| Architektonický princip P19: Otevřená řešení (Open Source)                                       |                  |
+| Architektonický princip P20: Metriky digitálních služeb (Digital Service Performance)            |                  |
+
+
+
+
+Následuje tabulka s popisným vyhodnocením souladu se zásadami řízení ICT stanovenými v Informační koncepci České republiky. U těch zásad, jež nejsou pro naši organizaci relevantní, je toto uvedeno. Podrobný popis všech zásad obsahuje [stránka národní zásady řízení ICT](https://architektovani.tiddlyhost.com/#n%C3%A1rodn%C3%AD%20z%C3%A1sady%20%C5%99%C3%ADzen%C3%AD%20ICT)
+
+| Objekt IKČR                                                                                      | Popis zhodnocení |
+|--------------------------------------------------------------------------------------------------|------------------|
+| Zásada řízení ICT Z01: Na prvním místě je klient                                                 |                  |
+| Zásada řízení ICT Z02: Standardy plánování a řízení ICT                                          |                  |
+| Zásada řízení ICT Z03: Strategické řízení pomocí IK OVS                                          |                  |
+| Zásada řízení ICT Z04: Řízení architektury                                                       |                  |
+| Zásada řízení ICT Z05: Řízení požadavků a změn                                                   |                  |
+| Zásada řízení ICT Z06: Řízení výkonnosti a kvality                                               |                  |
+| Zásada řízení ICT Z07: Řízení zodpovědnosti za služby a systémy                                  |                  |
+| Zásada řízení ICT Z08: Řízení katalogu služeb                                                    |                  |
+| Zásada řízení ICT Z09: Udržení interních kompetencí                                              |                  |
+| Zásada řízení ICT Z10: Procesní řízení                                                           |                  |
+| Zásada řízení ICT Z11: Řízení přínosů a hodnoty                                                  |                  |
+| Zásada řízení ICT Z12: Řízení kapacit zdrojů                                                     |                  |
+| Zásada řízení ICT Z13: Nezávislost návrhu, řízení a kontroly kvality                             |                  |
+| Zásada řízení ICT Z14: Vztah informatiky a legislativy                                           |                  |
+| Zásada řízení ICT Z15: Řízení financování ICT                                                    |                  |
+| Zásada řízení ICT Z16: Využívání otevřeného software a standardů                                 |                  |
+| Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli                               |
+
+
+
+
 ### 3.1.3. Vyhodnocení stavu dle klíčových oblastí architektury
+
+
+
+Následuje tabulka s popisem aplikovatelnosti a implementace jednotlivých klíčových oblastí architektury EG, jak je stanovuje Národní architektura EG. Podrobnosti k oblastem uvádí [stránka Klíčové oblasti architektury eGovernmentu](https://archi.gov.cz/uvod_klicove_oblasti)
+
+Tabulka obsahuje jednotlivé oblasti a popis jejich implementace a zhodnocení připravenosti v rámci OVS:
+
+| Oblast                                                   | Popis zhodnocení                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Potřebnost a ekonomická výhodnost informačních systémů   | |
+| Koncepce a strategie úřadů                               | |
+| Obslužné kanály veřejné správy                           | |
+| Elektronický oběh dokumentů                              | |
+| Identifikace v informačních systémech                    | |
+| Strukturovaná data v ISVS, datové fondy a jejich sdílení | |
+| Referenční rozhraní veřejné správy                       | |
+| Sdílené agendové informační systémy                      | |
+| Komunikační infrastruktura veřejné správy                | |
+| Cloudové služby                                          | |
+
+
+
 
 ## 3.2. 3.2 Popis důvodu pro změny řízení informatiky
 
