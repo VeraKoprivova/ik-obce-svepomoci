@@ -1,16 +1,17 @@
 Šablona pro informační koncepci v minimalistickém pojetí pro malé samosprávy a malé OVS.
 
-Primárně nevychází z velké vzorové osnovy IK OVS, ale z osnovy uvedené v nové vyhlášce o dlouhodobém řízení. To neznamená, že by ale neměla obsahovat vše potřebné, jen je uspořádána jinak a očekává se i její menší rozsah.
+Primárně nevychází z velké [vzorové osnovy IK OVS](https://archi.gov.cz/znalostni_baze:ik_ovs), ale z osnovy uvedené v nové [vyhlášce 360/2023 o dlouhodobém řízení](https://www.zakonyprolidi.cz/cs/2023-360). To neznamená, že by ale neměla obsahovat vše potřebné, jen je uspořádána jinak a očekává se i její menší rozsah.
 
-Verze šablony: 0.3
+Verze šablony: 0.4
 
 Verze pro obec II typu
 
-Šablona k dispozici na adrese https://github.com/egdilna/sablony/blob/main/sablona-ik-zhustena-obec2-nova.md
+Šablona k dispozici na adrese <https://github.com/egdilna/sablony/blob/main/sablona-ik-zhustena-obec2-nova.md>
 
 ----------
 
 # 1. Úvod
+
 ## 1.1. Identifikace Informační koncepce
 
 {{{OVS}}} vydává tuto Informační koncepci podle Zákona 365/2020 a Vyhlášky 529/2016
@@ -27,9 +28,9 @@ Verze pro obec II typu
 
 ## 1.2. Manažerské shrnutí Informační koncepce OVS
 
-Tato informační koncepce se vydává na dobu xxx s platností od xxx. IK se vyhodnocuje pravidelně v dvouletýchintervalech, výsledky vyhodnocení jsou součástí IK a zohledňují se v jejích následujících verzích.
+Tato informační koncepce se vydává na dobu xxx s platností od xxx. IK se vyhodnocuje pravidelně v dvouletých intervalech, výsledky vyhodnocení jsou součástí IK a zohledňují se v jejích následujících verzích.
 
-{{{OVS}}} je obcí s pověřeným úřadem dle zákona 127/2000 a je v území obce s rozšířenou působností {{{ORP}}}, je ve {{{kraj}}} kraji. 
+{{{OVS}}} je obcí s pověřeným úřadem dle zákona 127/2000 a je v území obce s rozšířenou působností {{{ORP}}}, je ve {{{kraj}}} kraji.
 
 * IK sleduje a vyhodnocuje v úřadu {{{odbor či osoba}}}, radou obce byla projednána a schválena {{{datum schválení}}}. Toto je první verze IK.
 * Řízením úřadu jako celku se věnuje tajemník úřadu a dále {{{útvar či osoba}}}. Informatiku řídí v úřadu {{{útvar či osoba}}}, pro plnění IK jsou zásadní také následující útvary: {{{útvary oddělené čárkou}}}. Organizační struktura úřadu i s oblastmi činnosti je zveřejněna na webových stránkách na adrese {{{URL}}}.
@@ -42,18 +43,22 @@ OVS se v následujícím období bude věnovat zejména těmto oblastem:
 
 * xxx
 
-
 # 2. Plán rozvoje informačních systémů orgánu veřejné správy
+
 ## 2.1. Popis stávajícího stavu architektury orgánu veřejné správy
+
 ## 2.2. Popis důvodu pro změny architektury orgánu veřejné správy
+
 ## 2.3. Navržený cílový stav architektury orgánu veřejné správy
+
 ## 2.4. Plán realizace změn informačních systémů orgánu veřejné správy
+
 # 3. Přehled řízení informatiky
-## 3. 1 Popis stávajícího stavu řízení informatiky
 
+## 3.1. 1 Popis stávajícího stavu řízení informatiky
 
+### 3.1.1. Soulad s procesy požadovanými dlouhodobým řízením IS
 
-### Soulad s procesy požadovanými dlouhodobým řízením IS
 **V oblasti strategie, plánování a organizace řízení informatiky**
 
 zavádí strategické řízení informatiky
@@ -66,12 +71,12 @@ zřizuje útvar pověřený řízením informatiky a blíže vymezuje jeho úkol
 * Současný stav: x
 * Potřebné změny: x
 
-nastavuje procesy řízení informatiky a zajišťuje k tomu potřebné nástroje. 
+nastavuje procesy řízení informatiky a zajišťuje k tomu potřebné nástroje.
 
 * Současný stav: x
 * Potřebné změny: x
 
-**V oblasti pořízení a změn informačních systémů **
+**V oblasti pořízení a změn informačních systémů**
 
 zajišťuje řízení zdrojů potřebných pro pořízení nebo změny informačních systémů
 
@@ -113,7 +118,6 @@ zajišťuje ohlášení a aktualizaci údajů o svých informačnícjh systémec
 * Současný stav: x
 * Potřebné změny: x
 
-
 vydává a udržuje provozní dokumentaci informačních systémů
 
 * Současný stav: x
@@ -123,8 +127,6 @@ udržuje dokumentaci a řízení změn informačních systémů
 
 * Současný stav: x
 * Potřebné změny: x
-
-
 
 **V oblasti provozu informačních systémů**
 
@@ -173,7 +175,6 @@ zajišťuje služby svých informačních systémů
 * Současný stav: x
 * Potřebné změny: x
 
-
 **V oblasti dohledu nad poskytováním služeb informačních systémů**
 
 stanovuje závazné parametry poskytovaných služeb informačních systémů, vyhodnocuje jejich plnění a realizuje nápravná opatření
@@ -186,8 +187,6 @@ zveřejňuje informace získané z činnosti podle předchozího bodu  způsobem
 * Současný stav: x
 * Potřebné změny: x
 
-
-
 **V oblasti útlumu, konzervace a ukončení informačních systémů**
 
 vytváří a průběžně aktualizuje strategii ukončování provozu informačních systémů
@@ -195,24 +194,39 @@ vytváří a průběžně aktualizuje strategii ukončování provozu informač
 * Současný stav: x
 * Potřebné změny: x
 
-### Soulad s principy a zásadami IKČR
+### 3.1.2. Soulad s principy a zásadami IKČR
 
-### Vyhodnocení stavu dle klíčových oblastí architektury
+### 3.1.3. Vyhodnocení stavu dle klíčových oblastí architektury
 
+## 3.2. 3.2 Popis důvodu pro změny řízení informatiky
 
-
-## 3.2 Popis důvodu pro změny řízení informatiky
 ## 3.3. Navržený cílový stav řízení informatiky
+
 ## 3.4. Plán realizace změn pro dosažení cílového stavu řízení informatiky
-# 4. Dokumentace o správě informační koncepce orgánu veřejné správy.
-## 4.1. Platnost informační koncepce orgánu veřejné správy
+
+# 4. Dokumentace o správě informační koncepce orgánu veřejné správy
+
+Aktuální verze informační koncepce je uvedena na webových stránkách XXX na adrese XXX.
+
+## ☑️ 4.1. Platnost informační koncepce orgánu veřejné správy
+
+Tato informační koncepce je platná od
+1.4.2024. Vyhodnocení a aktualizace bude realizována průběžně s tím, že hlavní aktualizace bude v roce 2026.
+
 ## 4.2. Postupy při vyhodnocování dodržování informační koncepce orgánu veřejné správy
+
 ## 4.3. Postupy při provádění změn informační koncepce orgánu veřejné správy
-## 4.4. Změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna
+
+## ☑️ 4.4. Změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna
+
+Toto je první verze IK.
+
 # 5. Datové přílohy informační koncepce
-## 5.1 Přehled agend a oblastí a zodpovědných útvarů (věcných gestorů)
+
+## 5.1. Přehled agend a oblastí a zodpovědných útvarů (věcných gestorů)
 
 ## 5.2. Přehled informačních systémů orgánu veřejné moci
-## 5.3. Přehled záměrů IK
-## 5.4. Přehled nutných součinností
 
+## 5.3. Přehled záměrů IK
+
+## 5.4. Přehled nutných součinností
