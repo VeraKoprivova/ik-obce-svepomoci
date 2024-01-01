@@ -2,11 +2,11 @@
 
 Primárně nevychází z velké [vzorové osnovy IK OVS](https://archi.gov.cz/znalostni_baze:ik_ovs), ale z osnovy uvedené v nové [vyhlášce 360/2023 o dlouhodobém řízení](https://www.zakonyprolidi.cz/cs/2023-360). To neznamená, že by ale neměla obsahovat vše potřebné, jen je uspořádána jinak a očekává se i její menší rozsah.
 
-Verze šablony: 0.5
+Verze šablony: 1.0
 
 Verze pro obec II typu
 
-Šablona k dispozici na adrese <https://github.com/egdilna/sablony/blob/main/sablona-ik-zhustena-obec2-nova.md>
+Šablona k dispozici na adrese <https://github.com/egdilna/sablony/blob/main/strategicka_dokumentace/sablona-ik-zhustena-obec2-nova.md>
 
 ----------
 
