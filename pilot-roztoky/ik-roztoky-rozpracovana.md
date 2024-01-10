@@ -54,25 +54,25 @@ OVS se v následujícím období bude věnovat zejména těmto oblastem:
 
 zavádí strategické řízení informatiky
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli řízení informatiky není v uspokojivém stavu.
+* Potřebné změny: Budeme řídit pomocí informační koncepce.
 
 zřizuje útvar pověřený řízením informatiky a blíže vymezuje jeho úkoly
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli nemáme.
+* Potřebné změny: Určíme v rámci úřadu pracovníka, který bude mít na starosti řízení informatiky egovernment.
 
 nastavuje procesy řízení informatiky a zajišťuje k tomu potřebné nástroje.
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli splňujeme z části.
+* Potřebné změny: Určíme si strukturu řídících procesů. 
 
 **V oblasti pořízení a změn informačních systémů**
 
 zajišťuje řízení zdrojů potřebných pro pořízení nebo změny informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli částečně splňujeme.
+* Potřebné změny: Na úřade si určíme pracovníka, který bude mít tuto oblast na starosti a bude kompetentní.  
 
 identifikuje požadavky na informační systémy a podmínky jejich zajištění
 
