@@ -76,55 +76,55 @@ zajišťuje řízení zdrojů potřebných pro pořízení nebo změny informa�
 
 identifikuje požadavky na informační systémy a podmínky jejich zajištění
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: Požadavky sbíráme, ale nemáme dostatečnou kontrolu nad jejich plněním.
+* Potřebné změny: Do budoucna zavedeme jednoduchou správu a kontrolu požadavků.
 
 vyhodnocuje a v případě potřeby zajišťuje podmínky pro vytvoření ověřovacích konceptů sloužících pro ověření realizovatelnosti pořízení nebo změn informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V současnoti ověřovací koncepty nepoužíváme.
+* Potřebné změny: V budoucnu zvažujeme ve vhodných případech zavést ověřovací koncepty.
 
 zajišťuje řízení programů a projektů potřebných pro pořízení a změny informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V současnosti formální projektové řízení nemáme.
+* Potřebné změny: V budoucnu částečně projektové řízení zřídíme.
 
 zajišťuje řízení změn informačního systému na organizační a procesní úrovni
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli nemáme.
+* Potřebné změny: V budoucnu plánujeme jednoduché řízení změn zavedeme.
 
 vyhodnocuje využitelnost existujících řešení a komponent s otevřeným zdrojovým kódem eGovernmentu pro jím spravované informační systémy
 
-* Současný stav: x
+* Současný stav: V tuto chvíli zanalizujeme a zjistíme zda využíváme.
 * Potřebné změny: x
 
 určuje pro každý informační systém věcného a technického správce
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli určeno na všech úrovních nemáme.
+* Potřebné změny: V budoucnu určíme správce klíčových oblastí.
 
-zajišťuje ohlášení a aktualizaci údajů o svých informačnícjh systémech do Rejstříku ISVS
+zajišťuje ohlášení a aktualizaci údajů o svých informačních systémech do Rejstříku ISVS
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: Ne všechny údaje zapsané máme.
+* Potřebné změny: V budoucnu aktualizujeme a zapíšeme údaje.
 
 vydává a udržuje provozní dokumentaci informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli částečně splňujeme.
+* Potřebné změny: Dokumentaci si zajistíme. 
 
 udržuje dokumentaci a řízení změn informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli částečně splňujeme.
+* Potřebné změny: V budoucnu dokumentaci budeme urdžovat a změny řídit.
 
 **V oblasti provozu informačních systémů**
 
 nastavuje systém řízení provozu informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli částečně splňujeme - dokumentace je součástí smlouvy s IT.
+* Potřebné změny: V budoucnu dokumentaci vypracujeme jako samostatný dokument.
 
 užívá doménového jména třetí nebo nižší úrovně v doméně .gov.cz, je-li orgán veřejné správy státním orgánem
 
@@ -133,8 +133,8 @@ užívá doménového jména třetí nebo nižší úrovně v doméně .gov.cz,
 
 sleduje klíčové parametry provozu informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: Zatím nemáme.
+* Potřebné změny: Do budoucna zavedeme a budeme sledovat.
 
 zajišťuje správu zdrojů potřebných pro uspokojení servisních požadavků, řešení provozních incidentů a provoz informačních systémů
 
@@ -143,27 +143,27 @@ zajišťuje správu zdrojů potřebných pro uspokojení servisních požadavků
 
 zajišťuje řízení kontinuity provozu informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli nesplňujeme. 
+* Potřebné změny: V budoucnu se tím budeme zabývat, i v rámci kybernetické bezpečnosti.
 
 zajišťuje řízení bezpečnosti provozu informačních systémů
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V tuto chvíli nesplňujeme.
+* Potřebné změny: V budoucnu se tím budeme zabývat, i v rámci kybernetické bezpečnosti.
 
 vyhodnocuje možnost využití centrálních sdílených služeb poskytovaných jinými orgány veřejné správy.
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: Dosud k vyhodnocení nedošlo.
+* Potřebné změny: V budoucnu plánujeme využívat.
 
 zajišťuje vazby svých informačních systémů veřejné správy na systémy jiného správce referenčním rozhraním
 
-* Současný stav: x
-* Potřebné změny: x
+* Současný stav: V současnosti běžně využíváme.
+* Potřebné změny: 
 
 zajišťuje služby svých informačních systémů
 
-* Současný stav: x
+* Současný stav: V současnosti neposkytujeme služby svých IS.
 * Potřebné změny: x
 
 **V oblasti dohledu nad poskytováním služeb informačních systémů**
@@ -173,7 +173,7 @@ stanovuje závazné parametry poskytovaných služeb informačních systémů, v
 * Současný stav: x
 * Potřebné změny: x
 
-zveřejňuje informace získané z činnosti podle předchozího bodu  způsobem umožňujícím dálkový přístup
+zveřejňuje informace získané z činnosti podle předchozího bodu způsobem umožňujícím dálkový přístup
 
 * Současný stav: x
 * Potřebné změny: x
